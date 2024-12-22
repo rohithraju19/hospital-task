@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "City Hospital",
+    "patientCount": 120,
+    "location": "New York"
+  },
+  {
+    "id": 2,
+    "name": "Green Valley Medical Center",
+    "patientCount": 95,
+    "location": "Los Angeles"
+  },
+  {
+    "id": 3,
+    "name": "world hospital",
+    "patientCount": 200,
+    "location": "los angels"
+  },
+  {
+    "id": 4,
+    "name": "jubilee hospital",
+    "patientCount": 70,
+    "location": "washington dc"
+  },
+  {
+    "id": 5,
+    "name": "Peoples King hospital",
+    "patientCount": 70,
+    "location": "washington dc"
+  }
+]
